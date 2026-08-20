@@ -1,0 +1,39 @@
+1. FizzBuzz: Write a program that prints the numbers from 1 to 100. For multiples of three, print "Fizz" instead of the number, and for multiples of five, print "Buzz". For numbers which are multiples of both three and five, print "FizzBuzz".
+
+2. Reverse a string: Write a function that takes a string as input and returns the string reversed.
+
+3. Palindrome checker: Write a function that takes a string as input and returns true if the string is a palindrome (i.e., it reads the same forwards and backwards), and false otherwise.
+
+4. Find the missing number: Write a function that takes an array of integers and returns the missing number (i.e., the number that is not present in the array).
+
+5. Anagram checker: Write a function that takes two strings as input and returns true if they are anagrams (i.e., they contain the same letters in a different order), and false otherwise.
+
+6. Find the longest word: Write a function that takes a string as input and returns the longest word in the string.
+
+7. Check if a number is a power of 3: Write a function that takes a number as input and returns true if it is a power of 3 (e.g., 3, 9, 27, 81), and false otherwise.
+
+8. Sort an array: Write a function that takes an array of integers as input and returns the array sorted in ascending order.
+
+9. Count the vowels: Write a function that takes a string as input and returns the number of vowels (a, e, i, o, u) in the string.
+
+10. Find the maximum value: Write a function that takes an array of integers as input and returns the maximum value in the array.
+
+11. Check if a number is prime: Write a function that takes a number as input and returns true if it is a prime number, and false otherwise.
+
+12. Fibonacci sequence: Write a function that generates the Fibonacci sequence (a series of numbers in which each number is the sum of the two preceding ones) up to a given number.
+
+13. Merge two sorted arrays: Write a function that takes two sorted arrays as input and returns a new array that is the merged and sorted version of the two input arrays.
+
+14. Check if a number is a power of 3: Write a function that takes a number as input and returns true if it is a power of 3 (e.g., 3, 9, 27, 81), and false otherwise.
+
+15. Check if a number is even: Write a function that takes a number as input and returns true if it is even, and false otherwise.
+
+16. Find the common elements: Write a function that takes two arrays as input and returns an array containing the common elements of the two arrays.
+
+17. Calculate the factorial: Write a function that takes a number as input and returns the factorial of that number (i.e., the product of all the numbers from 1 to that number).
+
+18. Generate a random number: Write a function that generates a random number between a given range (e.g., 1 and 10).
+
+19. Find the average: Write a function that takes an array of numbers as input and returns the average of those numbers.
+
+20. Check if a number is a palindrome: Write a function that takes a number as input and returns true if the number is a palindrome, and false otherwise.
